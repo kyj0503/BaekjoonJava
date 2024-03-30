@@ -1,18 +1,17 @@
 import java.util.Scanner;
+
 public class No1330 {
-
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
-        int A = in.nextInt();
-        int B = in.nextInt();
+        int A = sc.nextInt();
+        int B = sc.nextInt();
 
-        in.close();
+        sc.close();
 
         if(A>B) System.out.println(">");
         else if(A<B) System.out.println("<");
         else System.out.println("==");
 
     }
-
 }
