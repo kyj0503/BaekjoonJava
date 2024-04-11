@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BaekjoonJava.iml" filepath="$PROJECT_DIR$/.idea/BaekjoonJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Class1/Class1.iml" filepath="$PROJECT_DIR$/Class1/Class1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Class2/Class2.iml" filepath="$PROJECT_DIR$/Class2/Class2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bronze5/Bronze5.iml" filepath="$PROJECT_DIR$/Bronze5/Bronze5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Silver4/Silver4.iml" filepath="$PROJECT_DIR$/Silver4/Silver4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Silver5/Silver5.iml" filepath="$PROJECT_DIR$/Silver5/Silver5.iml" />
     </modules>
   </component>
 </project>
